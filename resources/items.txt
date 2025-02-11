@@ -1,0 +1,5 @@
+Product: chips Price:2.89 Quantity: 2
+Product: Coke 12 pack Price:6.99 Quantity: 4
+Product: Newspaper Price:1.49 Quantity: 1
+Product: Cheddar Cheese Price:6.87 Quantity: 1
+Product: Lifesavers Price:.50 Quantity: 7
